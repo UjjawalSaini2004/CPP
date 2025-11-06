@@ -1,2 +1,2 @@
-# C-
+# CPP
 My Complete C++ Journey
