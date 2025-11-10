@@ -5,11 +5,11 @@ int main(){
     cout<<"Enter a number : "; 
     cin>>n;
     int ld ;
-    int sum = 0;
+    int product = 1 ;
     while(n!=0){
         ld = n%10;
-        sum *= ld;
+        product *= ld;
         n = n/10;
     }
-    cout<<"Total sum of digits are : "<<sum;
+    cout<<"Total product of digits are : "<<product;
     }
