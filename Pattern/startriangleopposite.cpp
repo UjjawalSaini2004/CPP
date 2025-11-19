@@ -8,7 +8,7 @@ int main (){
         for(int j =n;j>=n;j-- ){
             cout<<" ";
         }
-        for(int j =1;j<=i;j++){ //
+        for(int j =1;j<=i;j++){ // star triangle opposite
             cout<<" *";
         }
         cout<<endl;
